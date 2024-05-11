@@ -41,7 +41,7 @@ Maze Generator
   - The maze generator may generate impossible mazes. The generator tends to generate more solvable mazes with larger parameters (8x8+)
 
   **  Compilation Steps:**
-**  gcc  **
-  **./a.out**
+gcc -o maze main.c mazeGenerator.c mazeSolver.c
+./maze
 
 
