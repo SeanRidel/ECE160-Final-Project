@@ -35,7 +35,7 @@ Maze Solver:
 
 Maze Generator
   - The generator only works for square mazes (n x n)
-  - The generator will output two mazes, the first being an array of (n x n) and the second being the random maze that the user is interested in
+  - The generator will output two mazes, the first being an array of all 1s (n x n) and the second being the random maze that the **user is interested in**
   - The maze generator may generate impossible mazes. The generator tends to generate more solvable mazes with larger parameters (8x8+)
 
   **  Compilation Steps:**
